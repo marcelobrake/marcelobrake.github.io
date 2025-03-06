@@ -1,9 +1,10 @@
 ## Marcelo Brake
 
 ### Resumo
-Experiencia com Arquitetura de Soluções em Nuvem Pública, especialmente AWS e Azure, tendo trabalhado em diversos projetos de migração de ambientes de nuvens privadas para pública e entre nuvens publicas.
-Atualmente, atuando com foco em performance de soluções em nuvem para otimização de custos operacionais além de gestão de soluções com inteligência artificial em aplicações e operações.
+
+Experiência e atuação com foco em performance de soluções em nuvem para otimização de custos operacionais além de gestão de soluções com inteligência artificial em aplicações e operações.
 Arquitetura otimizada para implementação de inteligência artificial utilizando AWS Bedrock, OpenAI, ElevenLabs e Azure Speech Services. Engenharia de prompt, RAG  e guardrails.
+Experiencia com Arquitetura de Soluções em Nuvem Pública, especialmente AWS e Azure, tendo trabalhado em diversos projetos de migração de ambientes de nuvens privadas para pública e entre nuvens publicas.
 Gestão de clusters Kubernetes on premise, on cloud com KOPS, EKS (AWS) e AKS (Azure), infraestrutura Docker, arquitetura de micro-serviços.
 Experiência com montagem e manutenção de servidores FreeBSD, Linux e Windows. Elaboração de projeto de redes indoor e outdoor, cabeadas e sem-fio.
 Desenvolvimento de sistemas em Python e PHP.
@@ -39,13 +40,18 @@ Suporte, Desenvolvimento, Manutenção de sistemas computacionais do parque tecn
 
 ---
 ### Formação
-*FCTECH - Faculdade Full Cycle*
+
+- *FCTECH - Faculdade Full Cycle*
 MBA Arquitetura Full Cyle (February 2024 - September 2025 - *in progress*)
-*UNIFAFIBE*
+
+- *UNIFAFIBE*
 MBA Gestão Empresarial, Administração, Negócios e Marketing · (February 2013 - December 2014)
-*UNIFAFIBE*
+
+- *UNIFAFIBE*
 Especialista, Desenvolvimento de Sistemas para Web · (February 2009 - December 2010)
-*UNIFAFIBE*
+
+- *UNIFAFIBE*
 Bacharel em Sistemas de Informação, Administração e Gerenciamento de Computação/Tecnologia da Informação · (February 2005 - December 2011)
-*Senac Brasil*
+
+- *Senac Brasil*
 Ensino Técnico, Informática · (January 2001 - December 2002)
