@@ -1,21 +1,21 @@
 ## Marcelo Brake
 
 ### Resumo
-Experiencia com Arquitetura de Soluções em Nuvem Pública, especialmente Azure e AWS, tendo trabalhado em diversos projetos de migração de ambientes de nuvens privadas para pública e entre nuvens publicas.
+Experiencia com Arquitetura de Soluções em Nuvem Pública, especialmente AWS e Azure, tendo trabalhado em diversos projetos de migração de ambientes de nuvens privadas para pública e entre nuvens publicas.
+Atualmente, atuando com foco em performance de soluções em nuvem para otimização de custos operacionais além de gestão de soluções com inteligência artificial em aplicações e operações.
+Arquitetura otimizada para implementação de inteligência artificial utilizando AWS Bedrock, OpenAI, ElevenLabs e Azure Speech Services. Engenharia de prompt, RAG  e guardrails.
 Gestão de clusters Kubernetes on premise, on cloud com KOPS, EKS (AWS) e AKS (Azure), infraestrutura Docker, arquitetura de micro-serviços.
 Experiência com montagem e manutenção de servidores FreeBSD, Linux e Windows. Elaboração de projeto de redes indoor e outdoor, cabeadas e sem-fio.
-Desenvolvimento de sistemas em PHP.
+Desenvolvimento de sistemas em Python e PHP.
 *Specialties:* AWS, Azure, Docker, Kubernetes, Grafana, Zabbix, Nagios, Linux, FreeBSD, Qmail, Apache, NGINX, PHP.
 
 ---
 ### Experiência
 #### Conexia Educação
-*IT Gov Mgr & DevSecOps Specialist*
-December 2019 - Present (1 year 9 months)
+*IT Gov Manager & DevSecOps Specialist*
+December 2019 - Present
 Ribeirão Preto, São Paulo, Brasil
-*DevOps Specialist*
-December 2019 - December 2019 (1 month)
-Ribeirão Preto e Região, Brasil
+Responsável pela gestão dos ambientes computacionais dos produtos da empresa (100% AWS), FinOps e segurança. Gestão de indicadores dos time de engenharia e implementação de ambientes para os produtos em nuvem (AWS e Azure).
 #### Linx
 *Coordenador de Infraestrutura de TI (Cloud Services)*
 July 2010 - December 2019 (9 years 6 months)
@@ -39,6 +39,8 @@ Suporte, Desenvolvimento, Manutenção de sistemas computacionais do parque tecn
 
 ---
 ### Formação
+*FCTECH - Faculdade Full Cycle*
+MBA Arquitetura Full Cyle (February 2024 - September 2025 - *in progress*)
 *UNIFAFIBE*
 MBA Gestão Empresarial, Administração, Negócios e Marketing · (February 2013 - December 2014)
 *UNIFAFIBE*
