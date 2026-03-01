@@ -14,7 +14,7 @@
 ---
 ### Experiência
 #### Conexia Educação
-*IT Gov Manager & DevSecOps Specialist*
+*IT Manager & DevSecOps Specialist*
 December 2019 - Present
 Ribeirão Preto, São Paulo, Brasil
 Responsável pela gestão dos ambientes computacionais dos produtos da empresa (100% AWS), FinOps e segurança. Gestão de indicadores dos time de engenharia e implementação de ambientes para os produtos em nuvem (AWS e Azure).
@@ -43,7 +43,7 @@ Suporte, Desenvolvimento, Manutenção de sistemas computacionais do parque tecn
 ### Formação
 
 #### FCTECH - Faculdade Full Cycle
-MBA Arquitetura Full Cyle (February 2024 - September 2025 - *in progress*)
+MBA Arquitetura Full Cyle (February 2024 - September 2025)
 
 #### UNIFAFIBE
 MBA Gestão Empresarial, Administração, Negócios e Marketing · (February 2013 - December 2014)
