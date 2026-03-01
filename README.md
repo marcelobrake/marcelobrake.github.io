@@ -2,6 +2,7 @@
 
 ### Links
 
+- [Tech Week 2026 - Slides](https://docs.google.com/presentation/d/1xWgNQ14swEojHS_jSqbRAqhmzFTeayXwee_X9TVkqrc/edit?usp=sharing)
 - [Tech Week 2026 - Exemplos](https://marcelobrake.github.io/tech-week-2026-exemplos.html)
 
 ### Resumo
