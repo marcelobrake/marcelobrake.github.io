@@ -1,5 +1,9 @@
 ## Marcelo Brake
 
+### Links
+
+- [Tech Week 2026 - Exemplos](https://marcelobrake.github.io/tech-week-2026-exemplos.html)
+
 ### Resumo
 
 - Experiência e atuação com foco em performance de soluções em nuvem para otimização de custos operacionais além de gestão de soluções com inteligência artificial em aplicações e operações.
